@@ -105,7 +105,7 @@ const About = () => {
             transition={{ delay: 0.2 }}
             className="text-5xl md:text-6xl font-bold mb-6"
           >
-            Welcome to Exclusive
+            Welcome to E-Mart
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}

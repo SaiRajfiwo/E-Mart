@@ -21,7 +21,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
         {/* Column 1 - Subscribe */}
         <div className="space-y-4">
-          <h2 className="text-2xl font-bold mb-6">Exclusive</h2>
+          <h2 className="text-2xl font-bold mb-6">E-Mart</h2>
           <div className="space-y-2">
             <h3 className="font-semibold">Subscribe</h3>
             <p className="text-sm">Get 10% off your first order</p>
@@ -47,10 +47,10 @@ const Footer = () => {
         <div className="space-y-4">
           <h3 className="font-semibold text-lg mb-6">Support</h3>
           <div className="space-y-2 text-sm">
-            <p>111 Bijoy sarani, Dhaka,</p>
-            <p>DH 1515, Bangladesh.</p>
-            <p>exclusive@gmail.com</p>
-            <p>+88015-88888-9999</p>
+            <p>123 Karve Nagar,</p>
+            <p>Pune, Maharashtra.</p>
+            <p>emart@gmail.com</p>
+            <p>+91 9876543210</p>
           </div>
         </div>
 
@@ -81,11 +81,7 @@ const Footer = () => {
         <div className="space-y-4">
           <h3 className="font-semibold text-lg mb-6">Download App</h3>
           <div className="space-y-4">
-            <p className="text-xs text-gray-400">Save $3 with App New User Only</p>
             <div className="flex space-x-4">
-              <div className="w-24 h-24">
-                <img src={QrCode} alt="QR Code" className="w-full h-full object-contain" />
-              </div>
               <div className="space-y-2">
                 <a href="#" className="block w-32">
                   <img src={GooglePlay} alt="Get it on Google Play" className="w-full" />
@@ -107,7 +103,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <div className="mt-16 text-center text-sm text-gray-400">
-        <p> 2022 ElecShop. All rights reserved.</p>
+        <p> 2025 E-Mart. All rights reserved.</p>
       </div>
     </footer>
   );
