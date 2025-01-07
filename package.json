@@ -2,7 +2,7 @@
   "name": "e-mart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SaiRajfiwo/E-Mart.git",
+  "homepage": "./",
   "dependencies": {
     "@headlessui/react": "^2.2.0",
     "@heroicons/react": "^1.0.6",
